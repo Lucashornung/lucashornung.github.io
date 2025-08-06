@@ -53,8 +53,8 @@ nav ul li a:hover {
     box-shadow: 0 4px 16px rgba(0,0,0,0.1);
     text-align: center;
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: flex-start;
+    justify-content: space-between;
     gap: 40px; /* space between image and text */
     flex-wrap: wrap; /* allows stacking on small screens */
 }
@@ -75,14 +75,16 @@ nav ul li a:hover {
     color: #555;
     text-align: left;
     width: 500px;
+    flex: 1;
 }
 
 /* Profile Image */
 img.profile {
-    width: 300px;
+    flex: 0 0 300px;
     border-radius: 12px;
     margin: 20px 0;
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    
 }
 
  .home-content {
