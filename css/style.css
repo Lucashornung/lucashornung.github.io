@@ -80,7 +80,7 @@ nav ul li a:hover {
 
 /* Profile Image */
 img.profile {
-    flex: 0 0 300px;
+    width: 300px;
     border-radius: 12px;
     margin: 20px 0;
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
