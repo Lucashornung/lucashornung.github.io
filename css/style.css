@@ -81,7 +81,7 @@ img.profile {
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
-/* .home-content {
+ .home-content {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -98,4 +98,5 @@ img.profile {
 
 .home-text {
     max-width: 600px;
-}*/
+}
+
