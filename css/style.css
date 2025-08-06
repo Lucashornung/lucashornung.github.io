@@ -59,6 +59,10 @@ nav ul li a:hover {
     flex-wrap: wrap; /* allows stacking on small screens */
 }
 
+.container .intro {
+    justify-content: left;
+}
+
 .container h1 {
     font-size: 2.5rem;
     color: #212529;
