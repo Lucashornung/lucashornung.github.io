@@ -1,0 +1,21 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>About Me - Lucas Hornung</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/png" href="images/favicon.png">
+</head>
+<body>
+    
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="code.html">Code</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="cv.pdf" download>Download CV</a></li>
+    </ul>
+</nav>
+
+</body>
+</html>
